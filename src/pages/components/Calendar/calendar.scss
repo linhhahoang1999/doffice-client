@@ -1,0 +1,23 @@
+.fc .fc-col-header-cell-cushion {
+  display: inline-block;
+  padding: 2px 4px;
+}
+
+.fc .fc-col-header-cell-cushion {
+  /* needs to be same precedence */
+  padding-top: 5px; /* an override! */
+  padding-bottom: 5px; /* an override! */
+}
+.fc-day-today {
+  background-color: #3cf0f0 !important;
+  font-size: 80%;
+}
+.fc-day:hover {
+  background: lightblue;
+}
+.fc{
+    background-color: white;
+}
+.fc button{
+    background-color: lightblue;
+}

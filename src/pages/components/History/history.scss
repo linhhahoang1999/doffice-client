@@ -1,0 +1,29 @@
+.history-header {
+  color: black;
+}
+.history-time {
+  margin-top: 2px;
+  font-size: small;
+}
+
+div.history-description {
+  margin-top: 2px;
+  color: #013280;
+  word-wrap: break-word;
+  font-size: smaller;
+}
+.history-row {
+  padding: 5px;
+  margin: 10px;
+  width: 550px;
+  cursor: default;
+  border-top: solid black 0.1px;
+}
+.history-row:hover {
+  background-color: #e6e4e4;
+  border-radius: 2px;
+}
+.history-list{
+  height: 450px;
+  overflow-x: scroll;
+}
